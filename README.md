@@ -10,8 +10,8 @@
 
 ### Hi, I'm Rohi 🐥
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohidprendas/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohid7401/)
+  [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/rohidprendas/)
+  [![](https://img.shields.io/badge/Instagram-E4405F)](https://www.instagram.com/rohid7401/)
   ![](https://komarev.com/ghpvc/?username=rohid7401&color=blue)
 <pre>
     💼 A Computer engineering student at Tecnológico de Costa Rica...                     
