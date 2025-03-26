@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C7BD3E&center=true&width=435&lines=Hello+everyone!;Here+Rohi+;I'm+a+software+engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1EBFFA&center=true&width=435&lines=Hello+everyone!;Here+Rohi+;I'm+a+Computer+engineer+)](https://git.io/typing-svg)
 <h3 align="center">Junior developer</h3>
 </div>
 
@@ -10,19 +10,13 @@
 
 ### Hi, I'm Rohi 🐥
 
-  [![](https://img.shields.io/badge/linkedin-0a66c2)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/rohidprendas/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohidprendas/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rohid7401/)
   ![](https://komarev.com/ghpvc/?username=rohid7401&color=blue)
 <pre>
     💼 A Computer engineering student at Tecnológico de Costa Rica...                     
     💻 How to reach me rohidprendas@gmail.com / rd740112@gmail.com
 </pre>
-
-<hr>
-
-### Languages 🗺
-- Spanish (Native Speaker)
-- **English** (B2)
-- Japanese (Newbie, currently learning it)
 
 <hr>
 
@@ -73,3 +67,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,maven,gradle" />
 </p>
+
+<hr>
+
+### Languages 🗺
+- Spanish (Native Speaker)
+- **English** (B2)
+- Japanese (Newbie, currently learning it)
+
